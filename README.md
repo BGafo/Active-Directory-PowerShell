@@ -22,7 +22,7 @@
 - <b>Microsoft Windows Server 2019</b>
 - <b>Microsoft Windows 10</b>
 
-<h2>Server administrator screen</h2>
+<h2>Administrative screen</h2>
 <p align="center">
 <img src="https://imgur.com/kpCCDO3.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
